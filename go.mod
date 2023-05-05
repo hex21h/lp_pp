@@ -1,3 +1,3 @@
-module github.com/hex21h/golang_test
+module github.com/hex21h/lp_pp
 
 go 1.20
